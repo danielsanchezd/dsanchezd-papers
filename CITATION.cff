@@ -4,7 +4,7 @@ authors:
   - family-names: Sanchez Diaz
     given-names: Daniel
 version: "1.0.0"
-doi: ""
+doi: "https://doi.org/10.5281/zenodo.1707370"
 date-released: "2025-09-07"
 url: "https://github.com/<you>/dynamic-angle-paper"
 message: "If you use this work, please cite it."
