@@ -3,9 +3,11 @@ title: "Dynamic-Angle Problem-Solving: A Control Policy for LLMs Under Missing C
 authors:
   - family-names: Sanchez Diaz
     given-names: Daniel
-version: "1.0.0"
-doi: ""
+version: "1.0.1"
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.17073701
 date-released: "2025-09-07"
-url: "https://github.com/<you>/dynamic-angle-paper"
+url: "https://github.com/danielsanchezd/dynamic-angle-dsanchezd"
 message: "If you use this work, please cite it."
 
